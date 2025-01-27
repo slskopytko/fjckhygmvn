@@ -1,0 +1,4 @@
+- pipeline: tpetjanpgq
+  refs:
+  - refs/heads/master
+  on: CLICK
